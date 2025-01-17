@@ -15,3 +15,8 @@ Aynı anda istediğiniz kadar "bulmaca67-68.exe" çalıştırabilirsiniz. Standa
 Bulmacayı çözmeniz durumunda ekranda "BİNGOOOOO" şeklinde bir uyarı ile privkey ve adres bilgilerini göreceksiniz. Privkey ve adres bilgileri programın bulunduğu klasöre "BULMACA.txt" adında bir dosya oluşturularak bu dosyaya yazılacaktır. 
 
 Ödül paylaşımı %50 oranında yapılacaktır.
+
+Sorularınız için: enfarktus0@gmail.com
+
+0xe47BBeAc8F268d7126082D5574B6f027f95AF5FB
+3FerqQF5DVY1tPCEV7nXENoqxuVHGLjRh3
