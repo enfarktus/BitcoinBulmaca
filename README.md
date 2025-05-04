@@ -1,5 +1,7 @@
+67 ve 68 NOLU BULMACALAR ÇÖZÜLMÜŞTÜR!
+
 # BitcoinBulmaca
-Milyon Dolarlık Bitcoin Bulmacalarını Çözmeye Çalışıyoruz!
+Milyon Dolarlık Bitcoin Bulmacalarını Çözmeye Çalışıyoruz! 
 
 Gelişmeleri X'den paylaşıyorum! https://x.com/BitcoinBulmaca
 
